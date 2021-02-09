@@ -2,7 +2,7 @@ console.log("Client side javascript file is loaded.")
 
 const messageOne=document.querySelector("#message-1")
 const messageTwo=document.querySelector("#message-2")
-//messageOne.textContent= "From javascript"
+
 
 const weatherForm =document.querySelector("form")   //select the form query
 const searchElement = document.querySelector("input")
